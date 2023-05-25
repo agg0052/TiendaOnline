@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/AlejandroVM/Documents/NetBeansProjects/TiendaOnline/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/AlejandroVM/Documents/NetBeansProjects/TiendaOnline/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'TiendaOnline 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'TiendaOnline 1.0-SNAPSHOT API'
+com.mycompany.tiendaonline
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\src\main\java = 1684927559563
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\allclasses-index.html = 1685011446384
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\allpackages-index.html = 1685011446391
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\element-list = 1685011446122
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\help-doc.html = 1685011446613
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\index-all.html = 1685011446580
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\index.html = 1685011446602
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\jquery-ui.overrides.css = 1685011446667
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\member-search-index.js = 1685011446447
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\module-search-index.js = 1685011446394
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\overview-tree.html = 1685011446326
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\package-search-index.js = 1685011446425
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\script.js = 1685011446627
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\search.js = 1685011446638
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\stylesheet.css = 1685011446625
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\tag-search-index.js = 1685011446449
+C:\Users\AlejandroVM\Documents\NetBeansProjects\TiendaOnline\target\site\apidocs\type-search-index.js = 1685011446445

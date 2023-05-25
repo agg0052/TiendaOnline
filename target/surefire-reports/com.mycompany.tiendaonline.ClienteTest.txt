@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.tiendaonline.ClienteTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.05 sec <<< FAILURE!
+com.mycompany.tiendaonline.ClienteTest.testConsultarFacturas()  Time elapsed: 0.012 sec  <<< FAILURE!
+java.lang.Exception: Login incorrecto.
+	at com.mycompany.tiendaonline.Cliente.consultarFacturas(Cliente.java:92)
+	at com.mycompany.tiendaonline.ClienteTest.testConsultarFacturas(ClienteTest.java:38)
+
+com.mycompany.tiendaonline.ClienteTest.testHacerPedido()  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.Exception: Login incorrecto.
+	at com.mycompany.tiendaonline.Cliente.hacerPedido(Cliente.java:71)
+	at com.mycompany.tiendaonline.ClienteTest.testHacerPedido(ClienteTest.java:28)
+
+com.mycompany.tiendaonline.ClienteTest.testGastoTotal()  Time elapsed: 0.029 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <54.0> but was: <0.0>
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:86)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:81)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:993)
+	at com.mycompany.tiendaonline.ClienteTest.testGastoTotal(ClienteTest.java:58)
+
